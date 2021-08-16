@@ -1,4 +1,4 @@
-### Hi there 👋 I'm working at Automattic as a JavaScript Engineer, but I sometimes work on PHP files. I like cycling.
+### Hi there 👋 I'm working at Automattic as a JavaScript Engineer, but I sometimes work on PHP files. I like 🏋🏻‍♀️ and 🚴🏻‍♂️.
 
 ![Profile views](https://gpvc.arturio.dev/opr)
 
